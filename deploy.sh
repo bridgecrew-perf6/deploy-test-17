@@ -1,4 +1,4 @@
-REPOSITORY=/home/ubuntu
+REPOSITORY=/home/ubuntu/app
 cd $REPOSITORY
 
 APP_NAME=deploy-test-0.0.1-SNAPSHOT #1
