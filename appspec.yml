@@ -7,6 +7,5 @@ files:
 hooks:
   AfterInstall:
     - location: deploy.sh
-    - location: infra.sh
       timeout: 300
       runas: root

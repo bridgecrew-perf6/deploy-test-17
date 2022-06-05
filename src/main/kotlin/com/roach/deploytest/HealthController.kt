@@ -10,9 +10,4 @@ class HealthController {
     fun hello(): String {
         return "hello"
     }
-
-    @GetMapping("/healthcheck")
-    fun health(): String {
-        return "health"
-    }
 }
